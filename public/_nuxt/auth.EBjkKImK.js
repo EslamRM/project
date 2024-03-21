@@ -1,0 +1,1 @@
+import{x as t,y as a,z as e,A as o}from"./entry.dS5Tz4gd.js";import{a as s}from"./auth.eYyTypAL.js";const{isAuthenticated:r}=s();a();const u=e(),l=t((i,n)=>{if(!r)return o(u("login"))});export{l as default};
